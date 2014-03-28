@@ -11,15 +11,16 @@ Counts logical lines of code in a C/C++ program using the following formula:
               + Nswitch     // all switch statements  
               + Nwhile      // all while statements  
               + Nfor        // all for statements  
-=== 
+---
     Usage: "ruby lloc.rb [filename]"
      		  	
-
+==
 ###countAll.rb  
 A script that runs LLOC on all C/C++ files in a given directory.
 
     USAGE: "ruby countAll.rb [dir_name]"  
 
+==
 ###Future Work
 LLOC is currently written in a functional programming style. In future work, it should be made to be more         object-oriented. 
 
