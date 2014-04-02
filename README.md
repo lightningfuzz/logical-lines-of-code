@@ -22,5 +22,5 @@ A script that runs LLOC on all C/C++ files in a given directory.
 
 ==
 ###Future Work
-LLOC is currently written in a functional programming style. In future work, it should be made to be more         object-oriented. 
+LLOC is currently written in a procedural programming style. In future work, it should be made to be more         object-oriented. 
 
